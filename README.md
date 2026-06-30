@@ -50,7 +50,7 @@ chmod +x installer.sh
 source ~/.bashrc       # or ~/.zshrc, ~/.bash_profile, etc.
 ```
 
-####Now launch it with:
+#### Now launch it with:
 
 ```bash
 evanense
