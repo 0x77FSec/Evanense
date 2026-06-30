@@ -37,12 +37,6 @@ brew install ruby tor torsocks proxychains netcat curl git
 sudo pacman -S ruby tor torsocks proxychains-ng curl git inetutils gnu-netcat
 ```
 
-## Clone & Install
-```bash
-git clonehttps://github.com/Breached-07/Evanense.git
-cd evanense
-```
-
 #### Run the installer.sh
 
 ```bash
@@ -56,7 +50,7 @@ chmod +x installer.sh
 source ~/.bashrc       # or ~/.zshrc, ~/.bash_profile, etc.
 ```
 
-#### ✅ Now launch it with:
+####Now launch it with:
 
 ```bash
 evanense
